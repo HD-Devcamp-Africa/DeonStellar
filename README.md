@@ -1,6 +1,5 @@
 # 1. Stellar Crowdfunding Contract
 
-(https://stellar.org/wp-content/uploads/2020/08/stellar-symbol-gradient-1.svg)
 
 A Rust implementation of a crowdfunding smart contract for the Stellar blockchain.
 
@@ -50,7 +49,6 @@ client.contribute(&contributor, 0, 1000);  // 1000 stroops
 
 # 2. Stellar Time-Locked Vault
 
-(https://icon-library.com/images/vault-icon/vault-icon-15.jpg)
 
 A secure time-locked vault contract for Stellar assets.
 
@@ -100,7 +98,7 @@ client.withdraw(&beneficiary, 0);
 ---
 
 # 3. Stellar DAO Voting System
-(https://cryptologos.cc/logos/dao-maker-dao-logo.png)
+
 
 Decentralized governance system for Stellar-based organizations.
 
